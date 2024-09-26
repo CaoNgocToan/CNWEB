@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WEB_ASP_NET\\ITShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\tinhtrangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|d:\\web_asp_net\\itshop\\itshop\\controllers\\loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C91A22-9C1C-402E-89E2-BF046A615E35}|ITShop\\ITShop.csproj|solutionrelative:itshop\\controllers\\loaisanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ITShop\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ITShop\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T03:26:50.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ITShop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T03:21:46.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ITShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ITShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T02:47:02.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap-utilities.css",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeDocumentMoniker": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "RelativeToolTip": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T02:34:57.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T02:34:49.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "ITShop\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeToolTip": "ITShop\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T02:34:11.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\libman.json",
+              "RelativeDocumentMoniker": "ITShop\\libman.json",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\libman.json",
+              "RelativeToolTip": "ITShop\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T02:29:15.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T02:27:35.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "ITShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T02:27:29.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TinhTrangController.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\TinhTrangController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\TinhTrangController.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\TinhTrangController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\TinhTrangController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:07:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:07:03.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:06:33.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoaiSanPhamController.cs",
+              "DocumentMoniker": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "RelativeDocumentMoniker": "ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "ToolTip": "D:\\WEB_ASP_NET\\ITShop\\ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "RelativeToolTip": "ITShop\\Controllers\\LoaiSanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:05:58.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
