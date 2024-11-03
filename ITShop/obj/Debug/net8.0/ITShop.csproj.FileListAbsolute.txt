@@ -354,7 +354,6 @@ D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Reflection.MetadataLoadCont
 D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Security.Permissions.dll
-D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Text.Json.dll
 D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Windows.Extensions.dll
 D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\af\Humanizer.resources.dll
 D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\ar\Humanizer.resources.dll
@@ -530,3 +529,10 @@ D:\WEB_ASP_NET\ITShop\ITShop\obj\Debug\net8.0\refint\ITShop.dll
 D:\WEB_ASP_NET\ITShop\ITShop\obj\Debug\net8.0\ITShop.pdb
 D:\WEB_ASP_NET\ITShop\ITShop\obj\Debug\net8.0\ITShop.genruntimeconfig.cache
 D:\WEB_ASP_NET\ITShop\ITShop\obj\Debug\net8.0\ref\ITShop.dll
+D:\WEB_ASP_NET\ITShop\ITShop\obj\Debug\net8.0\ITShop.sourcelink.json
+D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\SlugGenerator.dll
+D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\WEB_ASP_NET\ITShop\ITShop\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\WEB_ASP_NET\ITShop\ITShop\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
